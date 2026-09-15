@@ -70,6 +70,6 @@ metrics until an explicit reopen action.
 
 ## Diagram
 
-![ReleaseGuard architecture](../assets/architecture-diagram.png)
+![https://github.com/natalie-demers/releaseguard/blob/main/assets/architecture.md)
 
 *(See the "Lessons learned" section of the main README for how this design evolved.)*
